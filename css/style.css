@@ -1,0 +1,23 @@
+.image {
+    padding-top: 5px;
+    height: 300px;   
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5px;
+    font-weight: bolder;
+}
+ span {
+     color:blue;
+     font-weight: bold;
+ }
+ p {
+     font-family: 'Times New Roman', Times, serif;
+     font-size: large;
+ }   
+ .language {
+     padding-top: 5px;
+     font-size: larger;
+     font-weight: bold;
+ }
+ 
